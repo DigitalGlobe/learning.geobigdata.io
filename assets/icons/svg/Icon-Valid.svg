@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="7104 366 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #00d86a;
+      }
+    </style>
+  </defs>
+  <g id="Icon-Valid" transform="translate(7104 366)">
+    <path id="Path_200" data-name="Path 200" class="cls-1 icon-valid-path-cls-1" d="M0,0H24V24H0Z"/>
+    <path id="Path_201" data-name="Path 201" class="cls-2 icon-valid-path-cls-2" d="M9,16.2,4.8,12,3.4,13.4,9,19,21,7,19.6,5.6Z"/>
+  </g>
+</svg>
